@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const START_LOADING = '[UI] Start Loading';\nexport const STOP_LOADING = '[UI] Stop Loading';\nexport class StartLoading {\n  constructor() {\n    this.type = START_LOADING;\n  }\n\n}\nexport class StopLoading {\n  constructor() {\n    this.type = STOP_LOADING;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}
